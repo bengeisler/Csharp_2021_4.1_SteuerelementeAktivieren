@@ -76,14 +76,17 @@ namespace SteuerelementeAktivieren
 		{
 			if (txtEingabe1.Text != "" && txtEingabe2.Text != "")
 			{
-				btnRechnen.Enabled = true;		// Bedienbarkeit 
+				btnRechnen.Enabled = true;    // Bedienbarkeit 
 				//btnRechnen.Visible = true;			// Sichtbarkeit
 			}
 			else
 			{
-				btnRechnen.Enabled = false;		// Bedienbarkeit 
+				btnRechnen.Enabled = false;   // Bedienbarkeit 
 				//btnRechnen.Visible = false;     // Sichtbarkeit
 			}
+
+			// Verkürzte Schreibweise, die den Wahrheitswert auswertet
+			// btnRechnen.Enabled = (txtEingabe1.Text != "" && txtEingabe2.Text != "");
 		}
 	}
 }

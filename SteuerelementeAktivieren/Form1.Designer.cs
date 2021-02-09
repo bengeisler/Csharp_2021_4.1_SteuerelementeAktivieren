@@ -175,7 +175,6 @@ namespace SteuerelementeAktivieren
 			this.btnRechnen.TabIndex = 2;
 			this.btnRechnen.Text = "Rechnen";
 			this.btnRechnen.UseVisualStyleBackColor = true;
-			this.btnRechnen.Visible = false;
 			this.btnRechnen.Click += new System.EventHandler(this.btnRechnen_Click);
 			// 
 			// lblAusgabe
