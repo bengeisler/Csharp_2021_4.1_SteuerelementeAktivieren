@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\bin\Debug\SteuerelementeAktivieren.exe.config
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\bin\Debug\SteuerelementeAktivieren.exe
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\bin\Debug\SteuerelementeAktivieren.pdb
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\obj\Debug\SteuerelementeAktivieren.csprojAssemblyReference.cache
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\obj\Debug\SteuerelementeAktivieren.Form1.resources
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\obj\Debug\SteuerelementeAktivieren.Properties.Resources.resources
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\obj\Debug\SteuerelementeAktivieren.csproj.GenerateResource.cache
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\obj\Debug\SteuerelementeAktivieren.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\obj\Debug\SteuerelementeAktivieren.exe
+C:\Users\b\source\repos\SteuerelementeAktivieren\SteuerelementeAktivieren\obj\Debug\SteuerelementeAktivieren.pdb
